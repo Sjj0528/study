@@ -23,7 +23,7 @@ export default {
   },
   data(){
     return {
-      msg2:"HEIHEI",
+      msg2:"HEIHEIsss",
       valPass1:'',
       valPass2:''
     }
